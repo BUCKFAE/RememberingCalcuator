@@ -1,2 +1,2 @@
-# RememberingCalcuator
- A simply calculator written in pyhton that saves all done calculations to a file 
+# RememberingCalculator
+ A simple calculator written in python that saves all done calculations to a file 
